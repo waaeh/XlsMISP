@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<calcChain xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <c r="E65" i="5" l="1"/>
+  <c r="E64" i="5"/>
+  <c r="E63" i="5"/>
+  <c r="E62" i="5"/>
+  <c r="E61" i="5"/>
+  <c r="E60" i="5"/>
+  <c r="E59" i="5"/>
+  <c r="E58" i="5"/>
+  <c r="E57" i="5"/>
+  <c r="E56" i="5"/>
+  <c r="E55" i="5"/>
+  <c r="C21" i="5"/>
+  <c r="B2" i="4"/>
+  <c r="D10" i="3"/>
+</calcChain>

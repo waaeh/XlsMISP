@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="217" uniqueCount="137">
+  <si>
+    <t>id</t>
+  </si>
+  <si>
+    <t>uuid</t>
+  </si>
+  <si>
+    <t>date</t>
+  </si>
+  <si>
+    <t>info</t>
+  </si>
+  <si>
+    <t>published</t>
+  </si>
+  <si>
+    <t>attribute_count</t>
+  </si>
+  <si>
+    <t>xl.ts(timestamp)</t>
+  </si>
+  <si>
+    <t>Org.name</t>
+  </si>
+  <si>
+    <t>analysis</t>
+  </si>
+  <si>
+    <t>proposal_email_lock</t>
+  </si>
+  <si>
+    <t>locked</t>
+  </si>
+  <si>
+    <t>xl.ts(publish_timestamp)</t>
+  </si>
+  <si>
+    <t>distribution</t>
+  </si>
+  <si>
+    <t>threat_level_id</t>
+  </si>
+  <si>
+    <t>xl.listrec(EventTag.Tag.name)</t>
+  </si>
+  <si>
+    <t>0 = initial, 1 = ongoing, 2 = completed</t>
+  </si>
+  <si>
+    <t>1 = This community only</t>
+  </si>
+  <si>
+    <t>xl.listrec(RelatedEvent.Event.id)</t>
+  </si>
+  <si>
+    <t>xl.list(Tag)</t>
+  </si>
+  <si>
+    <t>Attrib type</t>
+  </si>
+  <si>
+    <t>category</t>
+  </si>
+  <si>
+    <t>type</t>
+  </si>
+  <si>
+    <t>to_ids</t>
+  </si>
+  <si>
+    <t>value</t>
+  </si>
+  <si>
+    <t>comment</t>
+  </si>
+  <si>
+    <t>[MALWARE] Spam Run ([DATE] - [Subject or other identification info])</t>
+  </si>
+  <si>
+    <t>0 - Initial</t>
+  </si>
+  <si>
+    <t>1 - This community only</t>
+  </si>
+  <si>
+    <t>3 - Low</t>
+  </si>
+  <si>
+    <t>Tag</t>
+  </si>
+  <si>
+    <t>13 - tlp:green</t>
+  </si>
+  <si>
+    <t>Payload delivery</t>
+  </si>
+  <si>
+    <t>email-src</t>
+  </si>
+  <si>
+    <t>Spamming address</t>
+  </si>
+  <si>
+    <t>email-attachment</t>
+  </si>
+  <si>
+    <t>email-body</t>
+  </si>
+  <si>
+    <t>email-headers</t>
+  </si>
+  <si>
+    <t>email-subject</t>
+  </si>
+  <si>
+    <t>ip-src</t>
+  </si>
+  <si>
+    <t>Spamming IP</t>
+  </si>
+  <si>
+    <t>url</t>
+  </si>
+  <si>
+    <t>Network activity</t>
+  </si>
+  <si>
+    <t>ip-dst|port</t>
+  </si>
+  <si>
+    <t>ip-dst</t>
+  </si>
+  <si>
+    <t>External analysis</t>
+  </si>
+  <si>
+    <t>link</t>
+  </si>
+  <si>
+    <t>Other</t>
+  </si>
+  <si>
+    <t>MISP settings</t>
+  </si>
+  <si>
+    <t>Alias</t>
+  </si>
+  <si>
+    <t>[UNUSED FOR NOW]</t>
+  </si>
+  <si>
+    <t>Authorization</t>
+  </si>
+  <si>
+    <t>[YOUR MISP API KEY]</t>
+  </si>
+  <si>
+    <t>Url</t>
+  </si>
+  <si>
+    <t>[URL OF YOUR MISP INSTANCE]</t>
+  </si>
+  <si>
+    <t>My org name</t>
+  </si>
+  <si>
+    <t>[YOUR MISP COMPANY NAME]</t>
+  </si>
+  <si>
+    <t>Download last</t>
+  </si>
+  <si>
+    <t>Web settings</t>
+  </si>
+  <si>
+    <t>Use system proxy</t>
+  </si>
+  <si>
+    <t>If true, all other proxy settings are ignored</t>
+  </si>
+  <si>
+    <t>Proxy server</t>
+  </si>
+  <si>
+    <t>http://localhost:8080</t>
+  </si>
+  <si>
+    <t>Proxy username</t>
+  </si>
+  <si>
+    <t>Proxy password</t>
+  </si>
+  <si>
+    <t>Proxy bypass list</t>
+  </si>
+  <si>
+    <t>User-agent</t>
+  </si>
+  <si>
+    <t>Default is from vba-web (see variable WebUserAgent in WebHelper)</t>
+  </si>
+  <si>
+    <t>Insecure SSL</t>
+  </si>
+  <si>
+    <t>Ignore SSL certificate errors</t>
+  </si>
+  <si>
+    <t>Web request timeout</t>
+  </si>
+  <si>
+    <t>Enable logging</t>
+  </si>
+  <si>
+    <t>Logs to the VBA immediate window</t>
+  </si>
+  <si>
+    <t>Misc</t>
+  </si>
+  <si>
+    <t>Timezone offset</t>
+  </si>
+  <si>
+    <t>Disable Excel calc during updates</t>
+  </si>
+  <si>
+    <t>Better performance if enabled, but you might have to restore the preferred calculation mode if a VBA error occurs</t>
+  </si>
+  <si>
+    <t>Max blank lines to parse for new attribs</t>
+  </si>
+  <si>
+    <t>When creating or adding attributes, you can keep blank lines to ease the creation. This number defines how many blank lines are parsed before XlsMISP considers that the list of attributes is over.</t>
+  </si>
+  <si>
+    <t>Licence</t>
+  </si>
+  <si>
+    <t>XlsMISP</t>
+  </si>
+  <si>
+    <t>Version 0.5 - under MIT licence</t>
+  </si>
+  <si>
+    <t>Using</t>
+  </si>
+  <si>
+    <t xml:space="preserve">VBA-Web version 4.1.2 from Tim Hall, under MIT licence </t>
+  </si>
+  <si>
+    <t>https://github.com/VBA-tools/VBA-Web</t>
+  </si>
+  <si>
+    <t>Changelog</t>
+  </si>
+  <si>
+    <t>0.1</t>
+  </si>
+  <si>
+    <t>Initial version with basic querying features</t>
+  </si>
+  <si>
+    <t>0.2</t>
+  </si>
+  <si>
+    <t>Further web settings to allow customization</t>
+  </si>
+  <si>
+    <t>0.3</t>
+  </si>
+  <si>
+    <t>Various enhancement</t>
+  </si>
+  <si>
+    <t>0.4</t>
+  </si>
+  <si>
+    <t>Creation and edition of MISP events</t>
+  </si>
+  <si>
+    <t>0.5</t>
+  </si>
+  <si>
+    <t>Upload of payloads and proper MISP object handling</t>
+  </si>
+  <si>
+    <t>Ideas for upcoming versions</t>
+  </si>
+  <si>
+    <t>Creation / edition of MISP events</t>
+  </si>
+  <si>
+    <t>Done v 0.4</t>
+  </si>
+  <si>
+    <t>Selective refresh of the overview</t>
+  </si>
+  <si>
+    <t>Done v 0.3</t>
+  </si>
+  <si>
+    <t>Better logging (WebHelper -&gt; EnableLogging)</t>
+  </si>
+  <si>
+    <t>Configurable user agent</t>
+  </si>
+  <si>
+    <t>Done v 0.2</t>
+  </si>
+  <si>
+    <t>Detection of stale records</t>
+  </si>
+  <si>
+    <t>Upload of (malicious) payloads</t>
+  </si>
+  <si>
+    <t>Done v 0.5</t>
+  </si>
+  <si>
+    <t>Sightning API implementation (Sightings API)</t>
+  </si>
+  <si>
+    <t>Enhance TAG handling</t>
+  </si>
+  <si>
+    <t>Enhance error handling</t>
+  </si>
+  <si>
+    <t>Safer storage of the API key</t>
+  </si>
+  <si>
+    <t>Keeping an overview history</t>
+  </si>
+  <si>
+    <t>Retrieve attribute category/type and force them via dropdown (https://&lt;misp url&gt;/attributes/describeTypes)</t>
+  </si>
+  <si>
+    <t>Graphical tidy up</t>
+  </si>
+  <si>
+    <t>Partially done in v 0.5</t>
+  </si>
+  <si>
+    <t>Add button "use as template" on existing events</t>
+  </si>
+  <si>
+    <t>Replace integer values by their MISP equivalent (threat level, …)</t>
+  </si>
+  <si>
+    <t>Partially done in v 0.4</t>
+  </si>
+  <si>
+    <t>Make the file multi-tenant able?</t>
+  </si>
+  <si>
+    <t>Dropdown Lists</t>
+  </si>
+  <si>
+    <t>Threat Level</t>
+  </si>
+  <si>
+    <t>High</t>
+  </si>
+  <si>
+    <t>Medium</t>
+  </si>
+  <si>
+    <t>Low</t>
+  </si>
+  <si>
+    <t>Undefined</t>
+  </si>
+  <si>
+    <t>Analysis</t>
+  </si>
+  <si>
+    <t>Initial</t>
+  </si>
+  <si>
+    <t>Ongoing</t>
+  </si>
+  <si>
+    <t>Completed</t>
+  </si>
+  <si>
+    <t>Distribution</t>
+  </si>
+  <si>
+    <t>Your organisation only</t>
+  </si>
+  <si>
+    <t>This community only</t>
+  </si>
+  <si>
+    <t>Connected Communities</t>
+  </si>
+  <si>
+    <t>All communities</t>
+  </si>
+  <si>
+    <t>Misp tags</t>
+  </si>
+  <si>
+    <t>name</t>
+  </si>
+  <si>
+    <t>Dropdown value</t>
+  </si>
+  <si>
+    <t>In miliseconds, max allowed is 32'000 (otherwise it triggers a VBA integer overflow…)</t>
+  </si>
+</sst>

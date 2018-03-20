@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:xdr="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" mc:Ignorable="x14ac">
+  <sheetPr codeName="Feuil1"/>
+  <dimension ref="A2:E70"/>
+  <sheetViews>
+    <sheetView tabSelected="1" workbookViewId="0">
+      <selection activeCell="C2" sqref="C2"/>
+    </sheetView>
+  </sheetViews>
+  <sheetFormatPr baseColWidth="10" defaultRowHeight="14.4" x14ac:dyDescent="0.3"/>
+  <cols>
+    <col min="1" max="1" width="17.109375" customWidth="1"/>
+    <col min="2" max="2" width="39.5546875" customWidth="1"/>
+    <col min="3" max="3" width="62.44140625" bestFit="1" customWidth="1"/>
+    <col min="4" max="4" width="38" customWidth="1"/>
+  </cols>
+  <sheetData>
+    <row r="2" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A2" s="25" t="s">
+        <v>47</v>
+      </c>
+      <c r="B2" t="s">
+        <v>48</v>
+      </c>
+      <c r="C2" t="s">
+        <v>49</v>
+      </c>
+    </row>
+    <row r="3" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A3" s="25"/>
+      <c r="B3" t="s">
+        <v>50</v>
+      </c>
+      <c r="C3" t="s">
+        <v>51</v>
+      </c>
+    </row>
+    <row r="4" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A4" s="25"/>
+      <c r="B4" t="s">
+        <v>52</v>
+      </c>
+      <c r="C4" t="s">
+        <v>53</v>
+      </c>
+    </row>
+    <row r="5" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A5" s="25"/>
+      <c r="B5" t="s">
+        <v>54</v>
+      </c>
+      <c r="C5" t="s">
+        <v>55</v>
+      </c>
+    </row>
+    <row r="6" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A6" s="25"/>
+      <c r="B6" t="s">
+        <v>56</v>
+      </c>
+      <c r="C6" s="18">
+        <v>7</v>
+      </c>
+    </row>
+    <row r="7" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="C7" s="18"/>
+    </row>
+    <row r="8" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="C8" s="18"/>
+    </row>
+    <row r="9" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A9" s="25" t="s">
+        <v>57</v>
+      </c>
+      <c r="B9" t="s">
+        <v>58</v>
+      </c>
+      <c r="C9" s="18" t="b">
+        <v>1</v>
+      </c>
+      <c r="D9" t="s">
+        <v>59</v>
+      </c>
+    </row>
+    <row r="10" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A10" s="25"/>
+      <c r="B10" t="s">
+        <v>60</v>
+      </c>
+      <c r="C10" s="19" t="s">
+        <v>61</v>
+      </c>
+    </row>
+    <row r="11" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A11" s="25"/>
+      <c r="B11" t="s">
+        <v>62</v>
+      </c>
+      <c r="C11" s="18"/>
+    </row>
+    <row r="12" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A12" s="25"/>
+      <c r="B12" t="s">
+        <v>63</v>
+      </c>
+      <c r="C12" s="18"/>
+    </row>
+    <row r="13" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A13" s="25"/>
+      <c r="B13" t="s">
+        <v>64</v>
+      </c>
+      <c r="C13" s="18"/>
+    </row>
+    <row r="14" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A14" s="25"/>
+      <c r="B14" t="s">
+        <v>65</v>
+      </c>
+      <c r="C14" s="18"/>
+      <c r="D14" t="s">
+        <v>66</v>
+      </c>
+    </row>
+    <row r="15" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A15" s="25"/>
+      <c r="B15" t="s">
+        <v>67</v>
+      </c>
+      <c r="C15" s="18" t="b">
+        <v>0</v>
+      </c>
+      <c r="D15" t="s">
+        <v>68</v>
+      </c>
+    </row>
+    <row r="16" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A16" s="25"/>
+      <c r="B16" t="s">
+        <v>69</v>
+      </c>
+      <c r="C16" s="20">
+        <v>30000</v>
+      </c>
+      <c r="D16" t="s">
+        <v>136</v>
+      </c>
+    </row>
+    <row r="17" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A17" s="25"/>
+      <c r="B17" t="s">
+        <v>70</v>
+      </c>
+      <c r="C17" s="18" t="b">
+        <v>0</v>
+      </c>
+      <c r="D17" t="s">
+        <v>71</v>
+      </c>
+    </row>
+    <row r="18" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A18" s="21"/>
+      <c r="C18" s="18"/>
+    </row>
+    <row r="19" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A19" s="21"/>
+      <c r="C19" s="18"/>
+    </row>
+    <row r="20" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A20" s="25" t="s">
+        <v>72</v>
+      </c>
+      <c r="B20" t="s">
+        <v>73</v>
+      </c>
+      <c r="C20" s="22">
+        <v>60</v>
+      </c>
+    </row>
+    <row r="21" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A21" s="25"/>
+      <c r="B21" t="s">
+        <v>74</v>
+      </c>
+      <c r="C21" s="22" t="b">
+        <f>TRUE</f>
+        <v>1</v>
+      </c>
+      <c r="D21" t="s">
+        <v>75</v>
+      </c>
+    </row>
+    <row r="22" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A22" s="25"/>
+      <c r="B22" t="s">
+        <v>76</v>
+      </c>
+      <c r="C22" s="23">
+        <v>6</v>
+      </c>
+      <c r="D22" t="s">
+        <v>77</v>
+      </c>
+    </row>
+    <row r="23" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="C23" s="18"/>
+    </row>
+    <row r="25" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A25" s="25" t="s">
+        <v>78</v>
+      </c>
+      <c r="B25" t="s">
+        <v>79</v>
+      </c>
+      <c r="C25" t="s">
+        <v>80</v>
+      </c>
+    </row>
+    <row r="26" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A26" s="25"/>
+    </row>
+    <row r="27" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A27" s="25"/>
+      <c r="B27" t="s">
+        <v>81</v>
+      </c>
+      <c r="C27" t="s">
+        <v>82</v>
+      </c>
+    </row>
+    <row r="28" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A28" s="25"/>
+      <c r="C28" t="s">
+        <v>83</v>
+      </c>
+    </row>
+    <row r="31" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A31" s="25" t="s">
+        <v>84</v>
+      </c>
+      <c r="B31" t="s">
+        <v>85</v>
+      </c>
+      <c r="C31" t="s">
+        <v>86</v>
+      </c>
+    </row>
+    <row r="32" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A32" s="25"/>
+      <c r="B32" t="s">
+        <v>87</v>
+      </c>
+      <c r="C32" t="s">
+        <v>88</v>
+      </c>
+    </row>
+    <row r="33" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A33" s="25"/>
+      <c r="B33" t="s">
+        <v>89</v>
+      </c>
+      <c r="C33" t="s">
+        <v>90</v>
+      </c>
+    </row>
+    <row r="34" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A34" s="25"/>
+      <c r="B34" t="s">
+        <v>91</v>
+      </c>
+      <c r="C34" t="s">
+        <v>92</v>
+      </c>
+    </row>
+    <row r="35" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A35" s="25"/>
+      <c r="B35" t="s">
+        <v>93</v>
+      </c>
+      <c r="C35" t="s">
+        <v>94</v>
+      </c>
+    </row>
+    <row r="38" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A38" s="24" t="s">
+        <v>95</v>
+      </c>
+      <c r="B38">
+        <v>1</v>
+      </c>
+      <c r="C38" t="s">
+        <v>96</v>
+      </c>
+      <c r="D38" t="s">
+        <v>97</v>
+      </c>
+    </row>
+    <row r="39" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A39" s="24"/>
+      <c r="B39">
+        <v>1</v>
+      </c>
+      <c r="C39" t="s">
+        <v>98</v>
+      </c>
+      <c r="D39" t="s">
+        <v>99</v>
+      </c>
+    </row>
+    <row r="40" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A40" s="24"/>
+      <c r="B40">
+        <v>2</v>
+      </c>
+      <c r="C40" t="s">
+        <v>100</v>
+      </c>
+      <c r="D40" t="s">
+        <v>99</v>
+      </c>
+    </row>
+    <row r="41" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A41" s="24"/>
+      <c r="B41">
+        <v>2</v>
+      </c>
+      <c r="C41" t="s">
+        <v>101</v>
+      </c>
+      <c r="D41" t="s">
+        <v>102</v>
+      </c>
+    </row>
+    <row r="42" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A42" s="24"/>
+      <c r="B42">
+        <v>3</v>
+      </c>
+      <c r="C42" t="s">
+        <v>103</v>
+      </c>
+      <c r="D42" t="s">
+        <v>99</v>
+      </c>
+    </row>
+    <row r="43" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A43" s="24"/>
+      <c r="B43">
+        <v>3</v>
+      </c>
+      <c r="C43" t="s">
+        <v>104</v>
+      </c>
+      <c r="D43" t="s">
+        <v>105</v>
+      </c>
+    </row>
+    <row r="44" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A44" s="24"/>
+      <c r="B44">
+        <v>3</v>
+      </c>
+      <c r="C44" t="s">
+        <v>106</v>
+      </c>
+    </row>
+    <row r="45" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A45" s="24"/>
+      <c r="B45">
+        <v>3</v>
+      </c>
+      <c r="C45" t="s">
+        <v>107</v>
+      </c>
+      <c r="D45" t="s">
+        <v>105</v>
+      </c>
+    </row>
+    <row r="46" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A46" s="24"/>
+      <c r="B46">
+        <v>3</v>
+      </c>
+      <c r="C46" t="s">
+        <v>108</v>
+      </c>
+    </row>
+    <row r="47" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A47" s="24"/>
+      <c r="B47">
+        <v>3</v>
+      </c>
+      <c r="C47" t="s">
+        <v>109</v>
+      </c>
+    </row>
+    <row r="48" spans="1:4" x14ac:dyDescent="0.3">
+      <c r="A48" s="24"/>
+      <c r="B48">
+        <v>3</v>
+      </c>
+      <c r="C48" t="s">
+        <v>110</v>
+      </c>
+    </row>
+    <row r="49" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="A49" s="24"/>
+      <c r="B49">
+        <v>3</v>
+      </c>
+      <c r="C49" t="s">
+        <v>111</v>
+      </c>
+    </row>
+    <row r="50" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="A50" s="24"/>
+      <c r="B50">
+        <v>3</v>
+      </c>
+      <c r="C50" t="s">
+        <v>112</v>
+      </c>
+      <c r="D50" t="s">
+        <v>113</v>
+      </c>
+    </row>
+    <row r="51" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="A51" s="24"/>
+      <c r="B51">
+        <v>3</v>
+      </c>
+      <c r="C51" t="s">
+        <v>114</v>
+      </c>
+    </row>
+    <row r="52" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="A52" s="24"/>
+      <c r="B52">
+        <v>3</v>
+      </c>
+      <c r="C52" t="s">
+        <v>115</v>
+      </c>
+      <c r="D52" t="s">
+        <v>116</v>
+      </c>
+    </row>
+    <row r="53" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="A53" s="24"/>
+      <c r="B53">
+        <v>5</v>
+      </c>
+      <c r="C53" t="s">
+        <v>117</v>
+      </c>
+    </row>
+    <row r="55" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="A55" t="s">
+        <v>118</v>
+      </c>
+      <c r="B55" t="s">
+        <v>119</v>
+      </c>
+      <c r="C55">
+        <v>1</v>
+      </c>
+      <c r="D55" t="s">
+        <v>120</v>
+      </c>
+      <c r="E55" t="str">
+        <f>C55&amp;" - "&amp;D55</f>
+        <v>1 - High</v>
+      </c>
+    </row>
+    <row r="56" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="B56" t="s">
+        <v>119</v>
+      </c>
+      <c r="C56">
+        <v>2</v>
+      </c>
+      <c r="D56" t="s">
+        <v>121</v>
+      </c>
+      <c r="E56" t="str">
+        <f t="shared" ref="E56:E65" si="0">C56&amp;" - "&amp;D56</f>
+        <v>2 - Medium</v>
+      </c>
+    </row>
+    <row r="57" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="B57" t="s">
+        <v>119</v>
+      </c>
+      <c r="C57">
+        <v>3</v>
+      </c>
+      <c r="D57" t="s">
+        <v>122</v>
+      </c>
+      <c r="E57" t="str">
+        <f t="shared" si="0"/>
+        <v>3 - Low</v>
+      </c>
+    </row>
+    <row r="58" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="B58" t="s">
+        <v>119</v>
+      </c>
+      <c r="C58">
+        <v>4</v>
+      </c>
+      <c r="D58" t="s">
+        <v>123</v>
+      </c>
+      <c r="E58" t="str">
+        <f t="shared" si="0"/>
+        <v>4 - Undefined</v>
+      </c>
+    </row>
+    <row r="59" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="B59" t="s">
+        <v>124</v>
+      </c>
+      <c r="C59">
+        <v>0</v>
+      </c>
+      <c r="D59" t="s">
+        <v>125</v>
+      </c>
+      <c r="E59" t="str">
+        <f t="shared" si="0"/>
+        <v>0 - Initial</v>
+      </c>
+    </row>
+    <row r="60" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="B60" t="s">
+        <v>124</v>
+      </c>
+      <c r="C60">
+        <v>1</v>
+      </c>
+      <c r="D60" t="s">
+        <v>126</v>
+      </c>
+      <c r="E60" t="str">
+        <f t="shared" si="0"/>
+        <v>1 - Ongoing</v>
+      </c>
+    </row>
+    <row r="61" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="B61" t="s">
+        <v>124</v>
+      </c>
+      <c r="C61">
+        <v>2</v>
+      </c>
+      <c r="D61" t="s">
+        <v>127</v>
+      </c>
+      <c r="E61" t="str">
+        <f t="shared" si="0"/>
+        <v>2 - Completed</v>
+      </c>
+    </row>
+    <row r="62" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="B62" t="s">
+        <v>128</v>
+      </c>
+      <c r="C62">
+        <v>0</v>
+      </c>
+      <c r="D62" t="s">
+        <v>129</v>
+      </c>
+      <c r="E62" t="str">
+        <f t="shared" si="0"/>
+        <v>0 - Your organisation only</v>
+      </c>
+    </row>
+    <row r="63" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="B63" t="s">
+        <v>128</v>
+      </c>
+      <c r="C63">
+        <v>1</v>
+      </c>
+      <c r="D63" t="s">
+        <v>130</v>
+      </c>
+      <c r="E63" t="str">
+        <f t="shared" si="0"/>
+        <v>1 - This community only</v>
+      </c>
+    </row>
+    <row r="64" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="B64" t="s">
+        <v>128</v>
+      </c>
+      <c r="C64">
+        <v>2</v>
+      </c>
+      <c r="D64" t="s">
+        <v>131</v>
+      </c>
+      <c r="E64" t="str">
+        <f t="shared" si="0"/>
+        <v>2 - Connected Communities</v>
+      </c>
+    </row>
+    <row r="65" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="B65" t="s">
+        <v>128</v>
+      </c>
+      <c r="C65">
+        <v>3</v>
+      </c>
+      <c r="D65" t="s">
+        <v>132</v>
+      </c>
+      <c r="E65" t="str">
+        <f t="shared" si="0"/>
+        <v>3 - All communities</v>
+      </c>
+    </row>
+    <row r="69" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="A69" t="s">
+        <v>133</v>
+      </c>
+    </row>
+    <row r="70" spans="1:5" x14ac:dyDescent="0.3">
+      <c r="A70" t="s">
+        <v>0</v>
+      </c>
+      <c r="B70" t="s">
+        <v>134</v>
+      </c>
+      <c r="C70" t="s">
+        <v>135</v>
+      </c>
+    </row>
+  </sheetData>
+  <dataConsolidate/>
+  <mergeCells count="6">
+    <mergeCell ref="A38:A53"/>
+    <mergeCell ref="A2:A6"/>
+    <mergeCell ref="A9:A17"/>
+    <mergeCell ref="A20:A22"/>
+    <mergeCell ref="A25:A28"/>
+    <mergeCell ref="A31:A35"/>
+  </mergeCells>
+  <hyperlinks>
+    <hyperlink ref="C10" r:id="rId1"/>
+  </hyperlinks>
+  <pageMargins left="0.7" right="0.7" top="0.75" bottom="0.75" header="0.3" footer="0.3"/>
+  <pageSetup paperSize="9" orientation="portrait" verticalDpi="0" r:id="rId2"/>
+  <drawing r:id="rId3"/>
+  <legacyDrawing r:id="rId4"/>
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice Requires="x14">
+      <controls>
+        <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+          <mc:Choice Requires="x14">
+            <control shapeId="5121" r:id="rId5" name="Button 1">
+              <controlPr defaultSize="0" print="0" autoFill="0" autoPict="0" macro="[0]!GetMispTags">
+                <anchor moveWithCells="1" sizeWithCells="1">
+                  <from>
+                    <xdr:col>2</xdr:col>
+                    <xdr:colOff>30480</xdr:colOff>
+                    <xdr:row>68</xdr:row>
+                    <xdr:rowOff>22860</xdr:rowOff>
+                  </from>
+                  <to>
+                    <xdr:col>2</xdr:col>
+                    <xdr:colOff>2842260</xdr:colOff>
+                    <xdr:row>69</xdr:row>
+                    <xdr:rowOff>45720</xdr:rowOff>
+                  </to>
+                </anchor>
+              </controlPr>
+            </control>
+          </mc:Choice>
+        </mc:AlternateContent>
+      </controls>
+    </mc:Choice>
+  </mc:AlternateContent>
+</worksheet>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xdr:wsDr xmlns:xdr="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14">
+      <xdr:twoCellAnchor editAs="absolute">
+        <xdr:from>
+          <xdr:col>4</xdr:col>
+          <xdr:colOff>0</xdr:colOff>
+          <xdr:row>0</xdr:row>
+          <xdr:rowOff>53340</xdr:rowOff>
+        </xdr:from>
+        <xdr:to>
+          <xdr:col>6</xdr:col>
+          <xdr:colOff>670560</xdr:colOff>
+          <xdr:row>2</xdr:row>
+          <xdr:rowOff>160020</xdr:rowOff>
+        </xdr:to>
+        <xdr:sp macro="" textlink="">
+          <xdr:nvSpPr>
+            <xdr:cNvPr id="3073" name="Button 1" hidden="1">
+              <a:extLst>
+                <a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}">
+                  <a14:compatExt spid="_x0000_s3073"/>
+                </a:ext>
+              </a:extLst>
+            </xdr:cNvPr>
+            <xdr:cNvSpPr/>
+          </xdr:nvSpPr>
+          <xdr:spPr>
+            <a:xfrm>
+              <a:off x="0" y="0"/>
+              <a:ext cx="0" cy="0"/>
+            </a:xfrm>
+            <a:prstGeom prst="rect">
+              <a:avLst/>
+            </a:prstGeom>
+          </xdr:spPr>
+          <xdr:txBody>
+            <a:bodyPr vertOverflow="clip" wrap="square" lIns="36576" tIns="32004" rIns="36576" bIns="32004" anchor="ctr" upright="1"/>
+            <a:lstStyle/>
+            <a:p>
+              <a:pPr algn="ctr" rtl="0">
+                <a:defRPr sz="1000"/>
+              </a:pPr>
+              <a:r>
+                <a:rPr lang="fr-FR" sz="1100" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                  <a:solidFill>
+                    <a:srgbClr val="000000"/>
+                  </a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                  <a:cs typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Update this event only</a:t>
+              </a:r>
+            </a:p>
+          </xdr:txBody>
+        </xdr:sp>
+        <xdr:clientData fPrintsWithSheet="0"/>
+      </xdr:twoCellAnchor>
+    </mc:Choice>
+    <mc:Fallback/>
+  </mc:AlternateContent>
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14">
+      <xdr:twoCellAnchor editAs="absolute">
+        <xdr:from>
+          <xdr:col>5</xdr:col>
+          <xdr:colOff>975360</xdr:colOff>
+          <xdr:row>3</xdr:row>
+          <xdr:rowOff>106680</xdr:rowOff>
+        </xdr:from>
+        <xdr:to>
+          <xdr:col>6</xdr:col>
+          <xdr:colOff>662940</xdr:colOff>
+          <xdr:row>5</xdr:row>
+          <xdr:rowOff>175260</xdr:rowOff>
+        </xdr:to>
+        <xdr:sp macro="" textlink="">
+          <xdr:nvSpPr>
+            <xdr:cNvPr id="3074" name="Button 2" hidden="1">
+              <a:extLst>
+                <a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}">
+                  <a14:compatExt spid="_x0000_s3074"/>
+                </a:ext>
+              </a:extLst>
+            </xdr:cNvPr>
+            <xdr:cNvSpPr/>
+          </xdr:nvSpPr>
+          <xdr:spPr>
+            <a:xfrm>
+              <a:off x="0" y="0"/>
+              <a:ext cx="0" cy="0"/>
+            </a:xfrm>
+            <a:prstGeom prst="rect">
+              <a:avLst/>
+            </a:prstGeom>
+          </xdr:spPr>
+          <xdr:txBody>
+            <a:bodyPr vertOverflow="clip" wrap="square" lIns="36576" tIns="32004" rIns="36576" bIns="32004" anchor="ctr" upright="1"/>
+            <a:lstStyle/>
+            <a:p>
+              <a:pPr algn="ctr" rtl="0">
+                <a:defRPr sz="1000"/>
+              </a:pPr>
+              <a:r>
+                <a:rPr lang="fr-FR" sz="1100" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                  <a:solidFill>
+                    <a:srgbClr val="000000"/>
+                  </a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                  <a:cs typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Accept pending proposals</a:t>
+              </a:r>
+            </a:p>
+          </xdr:txBody>
+        </xdr:sp>
+        <xdr:clientData fPrintsWithSheet="0"/>
+      </xdr:twoCellAnchor>
+    </mc:Choice>
+    <mc:Fallback/>
+  </mc:AlternateContent>
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14">
+      <xdr:twoCellAnchor editAs="absolute">
+        <xdr:from>
+          <xdr:col>5</xdr:col>
+          <xdr:colOff>982980</xdr:colOff>
+          <xdr:row>6</xdr:row>
+          <xdr:rowOff>68580</xdr:rowOff>
+        </xdr:from>
+        <xdr:to>
+          <xdr:col>6</xdr:col>
+          <xdr:colOff>678180</xdr:colOff>
+          <xdr:row>8</xdr:row>
+          <xdr:rowOff>106680</xdr:rowOff>
+        </xdr:to>
+        <xdr:sp macro="" textlink="">
+          <xdr:nvSpPr>
+            <xdr:cNvPr id="3075" name="Button 3" hidden="1">
+              <a:extLst>
+                <a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}">
+                  <a14:compatExt spid="_x0000_s3075"/>
+                </a:ext>
+              </a:extLst>
+            </xdr:cNvPr>
+            <xdr:cNvSpPr/>
+          </xdr:nvSpPr>
+          <xdr:spPr>
+            <a:xfrm>
+              <a:off x="0" y="0"/>
+              <a:ext cx="0" cy="0"/>
+            </a:xfrm>
+            <a:prstGeom prst="rect">
+              <a:avLst/>
+            </a:prstGeom>
+          </xdr:spPr>
+          <xdr:txBody>
+            <a:bodyPr vertOverflow="clip" wrap="square" lIns="36576" tIns="32004" rIns="36576" bIns="32004" anchor="ctr" upright="1"/>
+            <a:lstStyle/>
+            <a:p>
+              <a:pPr algn="ctr" rtl="0">
+                <a:defRPr sz="1000"/>
+              </a:pPr>
+              <a:r>
+                <a:rPr lang="fr-FR" sz="1100" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                  <a:solidFill>
+                    <a:srgbClr val="000000"/>
+                  </a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                  <a:cs typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Publish (or alert) event</a:t>
+              </a:r>
+            </a:p>
+          </xdr:txBody>
+        </xdr:sp>
+        <xdr:clientData fPrintsWithSheet="0"/>
+      </xdr:twoCellAnchor>
+    </mc:Choice>
+    <mc:Fallback/>
+  </mc:AlternateContent>
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14">
+      <xdr:twoCellAnchor editAs="absolute">
+        <xdr:from>
+          <xdr:col>7</xdr:col>
+          <xdr:colOff>15240</xdr:colOff>
+          <xdr:row>3</xdr:row>
+          <xdr:rowOff>106680</xdr:rowOff>
+        </xdr:from>
+        <xdr:to>
+          <xdr:col>8</xdr:col>
+          <xdr:colOff>1051560</xdr:colOff>
+          <xdr:row>5</xdr:row>
+          <xdr:rowOff>175260</xdr:rowOff>
+        </xdr:to>
+        <xdr:sp macro="" textlink="">
+          <xdr:nvSpPr>
+            <xdr:cNvPr id="3076" name="Button 4" hidden="1">
+              <a:extLst>
+                <a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}">
+                  <a14:compatExt spid="_x0000_s3076"/>
+                </a:ext>
+              </a:extLst>
+            </xdr:cNvPr>
+            <xdr:cNvSpPr/>
+          </xdr:nvSpPr>
+          <xdr:spPr>
+            <a:xfrm>
+              <a:off x="0" y="0"/>
+              <a:ext cx="0" cy="0"/>
+            </a:xfrm>
+            <a:prstGeom prst="rect">
+              <a:avLst/>
+            </a:prstGeom>
+          </xdr:spPr>
+          <xdr:txBody>
+            <a:bodyPr vertOverflow="clip" wrap="square" lIns="36576" tIns="32004" rIns="36576" bIns="32004" anchor="ctr" upright="1"/>
+            <a:lstStyle/>
+            <a:p>
+              <a:pPr algn="ctr" rtl="0">
+                <a:defRPr sz="1000"/>
+              </a:pPr>
+              <a:r>
+                <a:rPr lang="fr-FR" sz="1100" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                  <a:solidFill>
+                    <a:srgbClr val="000000"/>
+                  </a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                  <a:cs typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Propose added attributes</a:t>
+              </a:r>
+            </a:p>
+          </xdr:txBody>
+        </xdr:sp>
+        <xdr:clientData fPrintsWithSheet="0"/>
+      </xdr:twoCellAnchor>
+    </mc:Choice>
+    <mc:Fallback/>
+  </mc:AlternateContent>
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14">
+      <xdr:twoCellAnchor editAs="absolute">
+        <xdr:from>
+          <xdr:col>7</xdr:col>
+          <xdr:colOff>7620</xdr:colOff>
+          <xdr:row>6</xdr:row>
+          <xdr:rowOff>53340</xdr:rowOff>
+        </xdr:from>
+        <xdr:to>
+          <xdr:col>8</xdr:col>
+          <xdr:colOff>1043940</xdr:colOff>
+          <xdr:row>8</xdr:row>
+          <xdr:rowOff>121920</xdr:rowOff>
+        </xdr:to>
+        <xdr:sp macro="" textlink="">
+          <xdr:nvSpPr>
+            <xdr:cNvPr id="3077" name="Button 5" hidden="1">
+              <a:extLst>
+                <a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}">
+                  <a14:compatExt spid="_x0000_s3077"/>
+                </a:ext>
+              </a:extLst>
+            </xdr:cNvPr>
+            <xdr:cNvSpPr/>
+          </xdr:nvSpPr>
+          <xdr:spPr>
+            <a:xfrm>
+              <a:off x="0" y="0"/>
+              <a:ext cx="0" cy="0"/>
+            </a:xfrm>
+            <a:prstGeom prst="rect">
+              <a:avLst/>
+            </a:prstGeom>
+          </xdr:spPr>
+          <xdr:txBody>
+            <a:bodyPr vertOverflow="clip" wrap="square" lIns="36576" tIns="32004" rIns="36576" bIns="32004" anchor="ctr" upright="1"/>
+            <a:lstStyle/>
+            <a:p>
+              <a:pPr algn="ctr" rtl="0">
+                <a:defRPr sz="1000"/>
+              </a:pPr>
+              <a:r>
+                <a:rPr lang="fr-FR" sz="1100" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                  <a:solidFill>
+                    <a:srgbClr val="000000"/>
+                  </a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                  <a:cs typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Upload new attachment</a:t>
+              </a:r>
+            </a:p>
+          </xdr:txBody>
+        </xdr:sp>
+        <xdr:clientData fPrintsWithSheet="0"/>
+      </xdr:twoCellAnchor>
+    </mc:Choice>
+    <mc:Fallback/>
+  </mc:AlternateContent>
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14">
+      <xdr:twoCellAnchor editAs="absolute">
+        <xdr:from>
+          <xdr:col>5</xdr:col>
+          <xdr:colOff>982980</xdr:colOff>
+          <xdr:row>10</xdr:row>
+          <xdr:rowOff>15240</xdr:rowOff>
+        </xdr:from>
+        <xdr:to>
+          <xdr:col>6</xdr:col>
+          <xdr:colOff>678180</xdr:colOff>
+          <xdr:row>12</xdr:row>
+          <xdr:rowOff>53340</xdr:rowOff>
+        </xdr:to>
+        <xdr:sp macro="" textlink="">
+          <xdr:nvSpPr>
+            <xdr:cNvPr id="3078" name="Button 6" hidden="1">
+              <a:extLst>
+                <a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}">
+                  <a14:compatExt spid="_x0000_s3078"/>
+                </a:ext>
+              </a:extLst>
+            </xdr:cNvPr>
+            <xdr:cNvSpPr/>
+          </xdr:nvSpPr>
+          <xdr:spPr>
+            <a:xfrm>
+              <a:off x="0" y="0"/>
+              <a:ext cx="0" cy="0"/>
+            </a:xfrm>
+            <a:prstGeom prst="rect">
+              <a:avLst/>
+            </a:prstGeom>
+          </xdr:spPr>
+          <xdr:txBody>
+            <a:bodyPr vertOverflow="clip" wrap="square" lIns="36576" tIns="32004" rIns="36576" bIns="32004" anchor="ctr" upright="1"/>
+            <a:lstStyle/>
+            <a:p>
+              <a:pPr algn="ctr" rtl="0">
+                <a:defRPr sz="1000"/>
+              </a:pPr>
+              <a:r>
+                <a:rPr lang="fr-FR" sz="1100" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                  <a:solidFill>
+                    <a:srgbClr val="000000"/>
+                  </a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                  <a:cs typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Use this event as template</a:t>
+              </a:r>
+            </a:p>
+          </xdr:txBody>
+        </xdr:sp>
+        <xdr:clientData fPrintsWithSheet="0"/>
+      </xdr:twoCellAnchor>
+    </mc:Choice>
+    <mc:Fallback/>
+  </mc:AlternateContent>
+</xdr:wsDr>
